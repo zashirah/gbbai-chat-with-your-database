@@ -1,0 +1,16 @@
+# core DS development
+pybaseball
+openai
+tiktoken
+requests
+python-dotenv
+pandas
+seaborn
+pyarrow
+backoff
+promptflow 
+promptflow-tools
+pyodbc
+azure-identity
+azure-search-documents==11.4.0
+azure-storage-blob

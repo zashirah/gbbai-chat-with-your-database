@@ -1,0 +1,14 @@
+name: chat-with-your-database
+channels:
+  - conda-forge
+  - defaults
+  - jupyter
+dependencies:
+  - python=3.9
+  - pip
+  - ipykernel
+  - poppler
+  - pip:
+    - -r requirements.txt
+    - -r requirements-codequality.txt
+
